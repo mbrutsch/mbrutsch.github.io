@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+name: Michael Brutsch, Omniscient Guardian of the Depths
 title: Welcome to the jangle
 description: This is not a pipe
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
 
